@@ -2,8 +2,8 @@
 Machine Learning project that predicts stroke risk based on medical and lifestyle factors such as age, hypertension, diabetes, and cholesterol levels.
 
 ## 📊 Dataset
-Use the [Kaggle Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)  
-Place it in the `data/` folder before running the notebook.
+1. Use the [Kaggle Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)  
+2. **Place** the file in: data/raw/healthcare-dataset-stroke-data.csv
 
 ## ⚙️ Steps
 1. Install dependencies  
